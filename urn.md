@@ -8,7 +8,9 @@ We have registered the namespace landsense.eu with [MACE](http://www.internet2.e
 
 `urn:mace:landsense.eu:profession` holds the user's professional background
 
-`urn:mace:landsense.eu:uuid` holds the user's universal unique identifier within the LandSense federation
+`urn:mace:landsense.eu:subject-id` holds the user's unique identifier within the LandSense federation
+
+`urn:mace:landsense.eu:emailVerified` holds the information, whether a user's email address is verified or not
 
 `urn:mace:landsense.eu:idpIdentifier` holds the identifier of the Identity Provider the user used to log in
 
