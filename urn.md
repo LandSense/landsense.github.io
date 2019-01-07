@@ -15,3 +15,7 @@ We have registered the namespace landsense.eu with [MACE](http://www.internet2.e
 `urn:mace:landsense.eu:idpIdentifier` holds the identifier of the Identity Provider the user used to log in
 
 `urn:mace:landsense.eu:idpName` holds the name of the Identity Provider the user used to log in
+
+`urn:mace:landsense.eu:birdlife:ibaCaretaker` holds the information whether and for which IBA's the user is a caretaker
+
+`urn:mace:landsense.eu:birdlife:nationalCoordinator` holds the information whether and for which country the user is a national coordinator
